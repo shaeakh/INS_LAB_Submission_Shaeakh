@@ -1,0 +1,1 @@
+SHA1(mytext.txt)= 8a331c5398883a23b29e3570219beec2ce687292

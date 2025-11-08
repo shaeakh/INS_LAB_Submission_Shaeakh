@@ -1,0 +1,1 @@
+MD5(mytext.txt)= a2ec145e6949512a4f0a1b2157e3ded5

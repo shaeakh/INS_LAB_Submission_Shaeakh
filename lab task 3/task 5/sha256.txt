@@ -1,0 +1,1 @@
+SHA2-256(mytext.txt)= 9ba1c083b1deef717e344a2f5dd1f171bdb4011679cc51f513dd6bc8009bd279
