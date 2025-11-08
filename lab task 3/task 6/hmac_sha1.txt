@@ -1,0 +1,1 @@
+HMAC-SHA1(message.txt)= b1d7f20d6b56b34cebf122949637d0334baaf98a

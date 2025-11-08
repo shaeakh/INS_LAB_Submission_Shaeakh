@@ -1,0 +1,3 @@
+This is a test file for HMAC generation.
+I will compute HMAC-MD5, HMAC-SHA1, and HMAC-SHA256 for this file.
+

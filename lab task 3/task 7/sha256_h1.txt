@@ -1,0 +1,1 @@
+SHA2-256(sample.txt)= 1a758a0b08d57415cdf418c15ebaf779bfb27379c13fdfbc01109bea792f9a2b

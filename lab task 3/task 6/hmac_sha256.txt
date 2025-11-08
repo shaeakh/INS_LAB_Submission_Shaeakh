@@ -1,0 +1,1 @@
+HMAC-SHA2-256(message.txt)= 6e94e20ed6cbf406e52baf346a109e1fe34f821a37b855cabf326deb8174171f
